@@ -1,0 +1,15 @@
+# Angular client
+client/node_modules/
+client/dist/
+client/.angular/
+
+# Node server
+server/node_modules/
+server/.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
